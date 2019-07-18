@@ -1,0 +1,29 @@
+[Delivered] 2019-03-19 1:17:45 PM|1/31/2019 10:54:46|5|NoLastName, Sally|2322|something@something.com|M-S|FALSE|UA|TRA2|123
+[Removed] 2019-03-19 1:37:41 PM|2019-03-19 1:35:51 PM|3|Dinc, Asya|421|som@som.com|A-F|FALSE|UA|TRA1|This is an unecessary Note
+[Removed] 2019-03-19 1:38:04 PM|2019-03-19 1:37:36 PM|2|Berwinck, Sean|111|som@som.com|A-F|FALSE|UA|TRA1|
+[Removed] 2019-03-19 1:38:08 PM|2019-03-19 1:37:36 PM|2|Berwinck, Sean|111|som@som.com|A-F|FALSE|UA|TRA1|
+[Delivered] 2019-03-19 1:41:15 PM|1/31/2019 10:54:46|1|Kayama, Jessica|116|something@something.com|G-L|FALSE|UA|TRA1|
+[Delivered] 2019-03-19 1:46:21 PM|2019-03-18 2:04:02 PM|8|Zartosky, Mario|222|som@som.com|T-Z|FALSE|UA|TRA1|This is a note
+[Removed] 2019-03-19 1:46:30 PM|2019-03-19 1:37:36 PM|2|Berwinck, Sean|111|som@som.com|A-F|FALSE|UA|TRA1|
+[Removed] 2019-03-19 1:49:05 PM|1/31/2019 10:54:46|3|Borton, Sydney|308|something@something.com|A-F|FALSE|UA|TRA2|Something Very very very very very long
+[Removed] 2019-03-19 3:04:48 PM|2019-03-19 1:36:15 PM|4|Shajjad, Shiraz|308|som@som.com|M-S|FALSE|UA|TRA2|lol
+[Removed] 2019-03-19 3:21:58 PM|2019-03-19 3:21:07 PM|2|Borton, Sydney|2626|som@som.com|A-F|FALSE|UA|TRA1|This is a note
+[Removed] 2019-03-19 3:22:01 PM|2019-03-19 1:37:36 PM|2|Berwinck, Sean|111|som@som.com|A-F|FALSE|UA|TRA1|
+[Removed] 2019-03-19 3:46:53 PM|2019-03-19 3:15:03 PM|4|Shajjalad, Shiraz|208|som@som.com|M-S|FALSE|UA|TRA1|
+[Removed] 2019-03-19 3:47:41 PM|2019-03-19 1:49:43 PM|3|Andreazza, Uriel1|308|som@som.com|A-F|FALSE|UA|TRA1|this is a note
+[Removed] 2019-03-19 3:48:16 PM|2019-03-19 3:46:18 PM|2|Andreazza, Iuri|890|som@som.com|A-F|FALSE|UA|TRA2|
+[Removed] 2019-03-19 3:48:29 PM|2019-03-19 3:30:00 PM|2|Borton, Sydney|308|som@som.com|A-F|FALSE|UA|TRA2|this is a note
+[Removed] 2019-03-20 10:31:16 AM|1/31/2019 10:54:46|4|MORTON, LAURA|2310|something@something.com|M-S|FALSE|UA|TRA1|Something short
+[Removed] 2019-03-20 10:33:51 AM|2019-03-20 10:31:05 AM|2|MORTON, LAURA|308|som@som|M-S|FALSE|UA|TRA1|
+[Removed] 2019-03-20 10:33:55 AM|2019-03-20 10:33:41 AM|2|MORTON, LAURA|308|som@som.com|M-S|FALSE|ua|TRA1|
+[Removed] 2019-03-20 10:34:47 AM|2019-03-19 3:48:10 PM|3|ANDREAZZA, URIEL|308|som@som.ca|A-F|FALSE|UA|TRA2|
+[Removed] 2019-03-20 10:34:49 AM|2019-03-20 10:34:12 AM|2|ANDREAZZA, URIEL|308|som@som.com|A-F|FALSE|UA|TRA1|
+[Removed] 2019-03-20 10:40:16 AM|2019-03-20 10:37:57 AM|2|DINC, ASYA|421|som@som.com|A-F|FALSE|UA|TRA1|
+[Removed] 2019-03-20 10:41:34 AM|2019-03-20 10:39:41 AM|2|DINC, ASYA|421|som@som.com|A-F|FALSE|UA|TRA1|
+[Removed] 2019-03-20 10:42:30 AM|2019-03-20 10:40:37 AM|3|DINC, ASYA|421|som@som.com|A-F|FALSE|UA|TRA1|
+[Removed] 2019-03-20 10:49:04 AM|2019-03-19 4:22:40 PM|2|SAJJALAL, SHIRAZ|308|som@som.com|M-S|FALSE|UA|TRA1|this is a note2019-03-19 4:54:23 PM
+[Removed] 2019-03-20 4:41:51 PM|2019-03-20 10:34:40 AM|2|ANDREAZZA, URIEL|308|SOM@SOM.com|A-F|FALSE|UA|TRA1|
+[Delivered] 2019-03-20 4:43:06 PM|2019-03-19 3:45:52 PM|7|LUCAS, JOSH|768|som@Som.com|G-L|FALSE|UA|TRA2|
+[Removed] 2019-03-20 5:05:08 PM|2019-03-19 3:46:46 PM|6|OTTONI, ALEXANDRE|666|jn@jn.com.br|M-S|FALSE|UA|TRA1|
+[Removed] 2019-03-20 5:05:09 PM|2019-03-20 10:41:50 AM|1|DINC, ASYA|421|som@som.com|A-F|FALSE|UA|TRA1|
+[Removed] 2019-03-20 5:05:09 PM|2019-03-20 10:49:36 AM|3|KAYAMA, JESSICA|666|som@som.com|G-L|FALSE|UA|TRA2|this is a very long note

@@ -1,0 +1,10 @@
+1/31/2019 10:54:46|1|Andreazza, Uriel|308|something@something.com|A-F|TRUE|UA|TRA1|
+1/31/2019 10:54:46|3|Morton, Laura|2310|something@something.com|A-F|TRUE|UA|TRA2|Something short
+1/31/2019 10:54:46|3|Borton, Sydney|308|something@something.com|A-F|TRUE|UA|TRA1|Something Very very very very very long
+1/31/2019 10:54:46|7|Estrella, Jacob|2626|something@something.com|A-F|TRUE|UA|TRA2|bellow is just a space
+1/31/2019 10:54:46|1|Kayama, Jessica|116|something@something.com|A-F|TRUE|UA|TRA1|
+1/31/2019 10:54:46|5|Andreazza, Uriel|2110|something@something.com|A-F|TRUE|UA|TRA2|Lies!
+1/31/2019 10:54:46|2|Andreazza, Uriel|308|something@something.com|A-F|TRUE|UA|TRA1|Test Test
+1/31/2019 10:54:46|5|NoLastName, Sally|2322|something@something.com|A-F|TRUE|UA|TRA2|123
+1/31/2019 10:54:46|1|English, Tom|308|something@something.com|A-F|TRUE|UA|TRA1|Herp Derp
+1/31/2019 10:54:46|1|Andreazza, Uriel|308|something@something.com|A-F|TRUE|UA|TRA1|

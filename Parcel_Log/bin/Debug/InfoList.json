@@ -1,0 +1,82 @@
+{
+  "Parcels":[
+      {
+        "DateDelivered":"2019-02-14 4:49:13 PM",
+        "Quantity":1,
+        "Room": 308,
+        "FirstName":"Uriel",
+        "LastName":"Andreazza",
+        "Email":"aikiuriel@gmail.com",
+        "Box":"A-F",
+        "Contacted":"TRUE",
+        "StaffInitials":"UA",
+        "Building":"TRA1",
+        "Notes":"This is a Very Long String"
+      },
+      {
+        "DateDelivered":"2019-02-14 4:49:13 PM",
+        "Quantity":1,
+        "Room": 308,
+        "FirstName":"Uriel",
+        "LastName":"Andreazza",
+        "Email":"aikiuriel@gmail.com",
+        "Box":"A-F",
+        "Contacted":"TRUE",
+        "StaffInitials":"UA",
+        "Building":"TRA1",
+        "Notes":"This is a Very Long String"
+      },
+      {
+        "DateDelivered":"2019-02-14 4:49:13 PM",
+        "Quantity":1,
+        "Room": 308,
+        "FirstName":"Uriel",
+        "LastName":"Andreazza",
+        "Email":"aikiuriel@gmail.com",
+        "Box":"A-F",
+        "Contacted":"TRUE",
+        "StaffInitials":"UA",
+        "Building":"TRA1",
+        "Notes":"This is a Very Long String"
+      },
+      {
+        "DateDelivered":"2019-02-14 4:49:13 PM",
+        "Quantity":1,
+        "Room": 308,
+        "FirstName":"Uriel",
+        "LastName":"Andreazza",
+        "Email":"aikiuriel@gmail.com",
+        "Box":"A-F",
+        "Contacted":"TRUE",
+        "StaffInitials":"UA",
+        "Building":"TRA1",
+        "Notes":"This is a Very Long String"
+      },
+      {
+        "DateDelivered":"2019-02-14 4:49:13 PM",
+        "Quantity":1,
+        "Room": 308,
+        "FirstName":"Uriel",
+        "LastName":"Andreazza",
+        "Email":"aikiuriel@gmail.com",
+        "Box":"A-F",
+        "Contacted":"TRUE",
+        "StaffInitials":"UA",
+        "Building":"TRA2",
+        "Notes":"This is a Very Long String"
+      },
+      {
+        "DateDelivered":"2019-02-14 4:49:13 PM",
+        "Quantity":1,
+        "Room": 308,
+        "FirstName":"Uriel",
+        "LastName":"Andreazza",
+        "Email":"aikiuriel@gmail.com",
+        "Box":"A-F",
+        "Contacted":"TRUE",
+        "StaffInitials":"UA",
+        "Building":"TRA2",
+        "Notes":"This is a Very Long String"
+      }
+    ]
+  }
